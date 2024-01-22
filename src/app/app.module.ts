@@ -1,6 +1,8 @@
+// app.module.ts
+
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { RouterModule, Routes } from '@angular/router';
+import { RouterModule, Routes } from '@angular/router'; // Import RouterModule
 import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
